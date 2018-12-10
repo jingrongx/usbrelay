@@ -19,8 +19,8 @@
 
 apt install git libudev-dev libusb-1.0.0-dev libfox-1.6-dev autotools-dev autoconf automake libtool -y
 
+cd ~/
 git clone https://github.com/darrylb123/usbrelay.git
-
 cd ~/usbrelay/
 git clone https://github.com/signal11/hidapi.git
 cd ~/usbrelay/hidapi/
