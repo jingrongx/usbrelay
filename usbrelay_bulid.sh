@@ -1,6 +1,6 @@
 #!/bin/bash
 # 
-# In Ubuntu 16.04
+# In Ubuntu 16.04/18.04
 #
 # Show all relay boards and channels
 # usbrelay 2>/dev/null
